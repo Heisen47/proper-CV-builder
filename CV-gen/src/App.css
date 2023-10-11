@@ -1,0 +1,36 @@
+body {
+    height: 100%;
+    width: 100%;
+}
+
+ #AllContainer {
+    display: flex;
+    align-items: center;
+    width: 100%;
+    height: 100%;
+}
+
+#preview {
+    border: 1px solid black;
+    height: 39em;
+    width: 40em;
+    padding: 15px;
+    padding-left: 30px;
+}
+
+#form-details {
+    border: 1px solid black;
+    height: 39em;
+    width: 40em;
+    padding: 15px;
+    padding-right: 30px;
+}
+
+#Container {
+    width: 100%;
+    height: 100%;
+    /* background-color: aqua; */
+}
+
+
+
